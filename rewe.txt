@@ -5,3 +5,7 @@ deodarant
 rubber
 spirit
 cassava
+plaintain
+banana
+fufu
+

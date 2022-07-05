@@ -3,3 +3,9 @@ milk
 eggs
 water
 bread
+coke
+pomanades
+chicken
+onions
+fruits
+
